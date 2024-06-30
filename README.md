@@ -1,6 +1,6 @@
 # C++ Digit Recognizer
 
-This repository contains my implementation of a 3-layer neural network to predict the digit drawn in a 28x28 pixel canvas, using the famous MNIST dataset to train and test my model. My implementation does not use any pre-made machine learning or matrix libraries since I wanted to gain a complete understanding of how these basic neural networks operate.
+This repository contains my implementation of a 3-layer neural network to predict the digit drawn in a 28x28 pixel canvas, using the famous MNIST dataset to train and test my model. My implementation does not use any pre-made machine learning or matrix libraries since I wanted to gain a complete understanding of how these basic neural networks operate. While this project gets the job done, it also has lots of room for optimization in the future.
 
 ## Instructions
 
