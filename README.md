@@ -1,19 +1,23 @@
-# cpp-ml
+# C++ Digit Recognizer
 
-Temporary readme
+This repository contains my implementation of a 3-layer neural network to predict the digit drawn in a 28x28 pixel canvas, using the famous MNIST dataset to train and test my model. My implementation does not use any pre-made machine learning or matrix libraries since I wanted to gain a complete understanding of how these basic neural networks operate.
 
-MNIST set from: 
+## Instructions
 
-https://git-disl.github.io/GTDLBench/datasets/mnist_datasets/
+1. Download source files
+2. Download mnist_train.csv and mnist_test.csv from the MNIST dataset source below and place them in the same folder
+3. Adjust LEARNING_RATE and EPOCHS as desired
+4. Run main.cpp
 
-https://drive.google.com/file/d/1eEKzfmEu6WKdRlohBQiqi3PhW_uIVJVP/view
+## MNIST dataset source: 
 
-C++ MNIST written numbers identification machine learning implementation
+- https://git-disl.github.io/GTDLBench/datasets/mnist_datasets/
+- https://drive.google.com/file/d/1eEKzfmEu6WKdRlohBQiqi3PhW_uIVJVP/view
 
-Resources:
+## Main Resources Used:
 
-https://youtu.be/sIX_9n-1UbM
+- https://youtu.be/sIX_9n-1UbM
+- https://youtu.be/w8yWXqWQYmU
+- https://youtu.be/dB-u77Y5a6A
 
-https://youtu.be/w8yWXqWQYmU
-
-https://youtu.be/dB-u77Y5a6A
+![image](https://github.com/alexroz25/cpp_ml/assets/114797473/2517f42e-bf99-4325-ab25-9375130088e7)
