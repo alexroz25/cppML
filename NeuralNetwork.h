@@ -16,7 +16,7 @@
 // 784 -> 16 -> 10 neural network
 class NeuralNetwork {
 public:
-    const double LEARNING_RATE;
+    double LEARNING_RATE;
     int trainingElts; // number of training examples
     int inputSize; // size of each training example (784)
     int hiddenSize;
