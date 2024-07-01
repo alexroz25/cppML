@@ -20,4 +20,4 @@ This repository contains my implementation of a 3-layer neural network to predic
 - https://youtu.be/w8yWXqWQYmU
 - https://youtu.be/dB-u77Y5a6A
 
-![image](https://github.com/alexroz25/cpp_ml/assets/114797473/2517f42e-bf99-4325-ab25-9375130088e7)
+![image](https://github.com/alexroz25/cpp_ml/assets/114797473/4337f15c-e60b-456d-b390-190f9ae1abba)
